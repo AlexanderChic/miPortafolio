@@ -1,16 +1,68 @@
-# React + Vite
+# 💼 Portafolio Personal - Alexander
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Portafolio web profesional desarrollado con React + Vite, donde presento mis proyectos, habilidades y experiencia como QA Tester y Developer.
 
-Currently, two official plugins are available:
+## 🌐 Demo en Vivo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 **[Ver Portafolio](https://mi-portafolio-alexcbarrios.netlify.app)** 
 
-## React Compiler
+## 📋 Descripción
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Este portafolio es una aplicación web moderna y responsiva que muestra mi trayectoria profesional como Ingeniero en Sistemas especializado en Quality Assurance y mi transición hacia el desarrollo Full Stack. El sitio incluye información detallada sobre mis proyectos, certificaciones, habilidades técnicas y formas de contacto.
 
-## Expanding the ESLint configuration
+## ✨ Características
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Diseño Moderno y Responsivo**: Interfaz adaptable a todos los dispositivos
+- **Navegación Suave**: Menú interactivo con scroll suave entre secciones
+- **Sección de Proyectos**: Showcase de proyectos con tecnologías utilizadas y enlaces en vivo
+- **Habilidades Categorizadas**: Organización clara de competencias técnicas por área
+- **Certificaciones**: Galería de cursos y certificados completados
+- **Contacto Directo**: Enlaces a redes profesionales y botón flotante de WhatsApp
+- **Animaciones CSS**: Transiciones y efectos visuales para mejor UX
+
+## 🚀 Tecnologías Utilizadas
+
+- **React 18**: Biblioteca principal para la construcción de la interfaz
+- **Vite**: Build tool para desarrollo rápido y optimizado
+- **Lucide React**: Librería de iconos moderna
+- **CSS3**: Estilos personalizados con animaciones y efectos
+- **JavaScript ES6+**: Lógica de la aplicación
+
+## 🎯 Proyectos Destacados
+
+### 1. Sistema de Votación - Colegio de Ingenieros
+Sistema de votación electrónica Full Stack con React, Node.js y PostgreSQL.
+- **Tech Stack**: React, Node.js, PostgreSQL, CSS, SASS
+- **Deploy**: Netlify (Frontend) + Render (Backend)
+- **[Ver Demo](https://votos-guate.netlify.app/)**
+
+### 2. Aplicación Web para Excursiones y Tours
+Plataforma web para explorar y reservar tours turísticos.
+- **Tech Stack**: HTML, CSS, Bootstrap
+- **[Ver Demo](https://hojadetrabajo4alex.netlify.app/)**
+
+### 3. Juego de Blackjack
+Juego interactivo de blackjack con lógica de juego completa.
+- **Tech Stack**: JavaScript, HTML, CSS
+- **[Ver Demo](https://jazzy-cendol-8bcf7a.netlify.app/)**
+
+### 4. Portafolio Personal
+Este mismo sitio web desarrollado con React.
+- **Tech Stack**: React, CSS3, Vite
+
+## 💻 Habilidades Técnicas Presentadas
+
+- **Lenguajes**: JavaScript, Java, Python, C#
+- **Frontend**: React, HTML & CSS, Bootstrap, SASS/SCSS
+- **Backend**: Node.js, API REST, Express
+- **Bases de Datos**: SQL Server, PostgreSQL, MySQL, Sybase
+- **Testing & QA**: Selenium, Automatización, API Testing
+- **Herramientas**: Git & GitHub, Gradle, Vite, Metodologías Ágiles
+
+## 📫 Contacto
+
+- **Email**: [Alex.12chic@gmail.com](mailto:alex.12@gmail.com)
+- **GitHub**: [@AlexanderChic](https://github.com/AlexanderChic)
+- **WhatsApp**: Botón flotante en el portafolio
+
+Desarrollado por Alexander - QA Tester & Developer
