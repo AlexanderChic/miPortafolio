@@ -78,28 +78,36 @@ function App() {
 
   const certificados = [
     {
-      titulo: "Certificado JavaScript Moderno",
-      institucion: "Udemy / Platzi",
+      titulo: "Certificado Python Desde Cero a Experto",
+      institucion: "Udemy",
       fecha: "2024",
-      descripcion: "Curso completo de JavaScript ES6+ incluyendo programación asíncrona, promesas y módulos.",
-      link: "https://certificado.com/tu-link",
-      imagen: "/cert1.png"
+      descripcion: "Dominio de programación en Python, incluyendo fundamentos, programación orientada a objetos (POO) y aplicaciones avanzadas. Creación de programas completos, trabajo con IA, Machine Learning, Data Science, Web Scraping y desarrollo de múltiples proyectos prácticos.",
+      link: "/Python.pdf",
+      imagen: "/Python.jpg"
     },
     {
-      titulo: "React Avanzado",
-      institucion: "Udemy / Platzi",
+      titulo: "Certificado JavaScript",
+      institucion: "Udemy",
       fecha: "2024",
-      descripcion: "Desarrollo de aplicaciones con React, Hooks, Context API y mejores prácticas.",
-      link: "https://certificado.com/tu-link",
-      imagen: "/cert2.png"
+      descripcion: "Aprendizaje de JavaScript moderno, desde conceptos básicos hasta avanzados. Incluye tipos de datos, operadores, ciclos, manipulación del DOM, características de ESNext, clases, promesas, callbacks, funciones generadoras y uso de herramientas como Node, Npm y Vite para gestión de proyectos.",
+      link: "/JavaScript.pdf",
+      imagen: "/JavaScript.jpg"
     },
     {
-      titulo: "Automatización con Selenium",
-      institucion: "Coursera / Udemy",
+      titulo: "Certificado Programación para principiantes",
+      institucion: "Udemy",
       fecha: "2023",
-      descripcion: "Certificación en automatización de pruebas con Selenium WebDriver y Java.",
-      link: "https://certificado.com/tu-link",
-      imagen: "/cert3.png"
+      descripcion: "Aprendizaje de los fundamentos de la programación, incluyendo variables, tipos de datos, estructuras de control, funciones y conceptos básicos de programación orientada a objetos (POO). Desarrollo de habilidades para resolver problemas mediante la programación.",
+      link: "/ProgramacionCPrincipiantes.pdf",
+      imagen: "/ProgramacionPrincipiantes.jpg"
+    },
+    {
+      titulo: "Certificado SQL SERVER desde Cero a Experto",
+      institucion: "Udemy",
+      fecha: "2025",
+      descripcion: "Aprendizaje completo de SQL Server, desde conceptos básicos hasta avanzados. Incluye instalación, configuración, consultas SQL, procedimientos almacenados, funciones, triggers, vistas, índices y optimización de bases de datos. Desarrollo de habilidades para gestionar y manipular bases de datos eficientemente.",
+      link: "/SQL.pdf",
+      imagen: "/SQL.jpg"
     }
   ]
 
