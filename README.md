@@ -2,7 +2,7 @@
 
 Portafolio web profesional desarrollado con React + Vite, donde presento mis proyectos, habilidades y experiencia como QA Tester y Developer.
 
-## 🌐 Demo en Vivo
+## 🌐 Mi portafolio
 
 🔗 **[Ver Portafolio](https://mi-portafolio-alexcbarrios.netlify.app)** 
 
